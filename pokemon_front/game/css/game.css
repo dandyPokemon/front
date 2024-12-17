@@ -12,14 +12,34 @@
      margin-right:20px;
     justify-content:space-between;
     flex-wrap:wrap;
-max-width:1000px;
+
 
 margin: 0 auto;
 }
 .game__bot_text{
-    text-align: left;
+    
+    
+    height: 82px;
+    margin-left: 30px;
+    background: transparent;
+    font-size: 12px;
+    font-weight: 400;
+    
 }
 
 .game_series{
     
+    cursor: pointer;
+}
+
+.game-title{
+    display: block;
+    font-weight: bold;
+}
+.album{
+    max-width:1000px;
+}
+.album>img{
+    width:90%;
+    height: auto;
 }
