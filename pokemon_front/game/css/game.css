@@ -1,0 +1,25 @@
+.li_list{
+    list-style: none;
+    position: absolute;
+    top: 50%;
+    left:43%;
+    transform: translate(-50%, -50%);
+    list-style: none;
+    display:block;
+     display:flex;
+     flex-direction: row;
+     align-items: center;
+     margin-right:20px;
+    justify-content:space-between;
+    flex-wrap:wrap;
+max-width:1000px;
+
+margin: 0 auto;
+}
+.game__bot_text{
+    text-align: left;
+}
+
+.game_series{
+    
+}
