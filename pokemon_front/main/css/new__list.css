@@ -6,6 +6,7 @@ a {
   width: 100vw;
   background-image: url("https://pokemonkorea.co.kr/img/bg_pattern.jpg");
   background-repeat: repeat;
+  padding: 100px 0 140px;
 }
 
 .new__list > h2 {
@@ -46,7 +47,7 @@ a {
 
 .new__card_container {
   width: 290px;
-  height: 157px;
+  height: 135px;
 
   background-color: white;
   color: black;
@@ -73,6 +74,8 @@ a {
   font-size: 14px;
 
   color: #666;
+
+  margin-top: 50px;
 }
 
 .nuw__btn {
@@ -83,7 +86,7 @@ a {
   border-radius: 20px;
 
   position: relative;
-  top: 7px;
+  bottom: 8px;
 }
 
 .new__more {
@@ -93,6 +96,7 @@ a {
 
   width: 300px;
   height: 55px;
+
   background-image: linear-gradient(#fff, #fff),
     linear-gradient(to left, #55bcb5, #85c083, #bec449, #f7c90e);
 
