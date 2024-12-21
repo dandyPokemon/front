@@ -43,8 +43,8 @@
   word-break: break-word; /* 긴 단어를 강제로 줄 바꿈 */
 }
 
-.main__animation__banner .swiper-button-next,
-.main__animation__banner .swiper-button-prev {
+.main__animation .swiper-button-next,
+.main__animation .swiper-button-prev {
   color: #000000;
   background-color: rgb(255, 255, 255); /* 버튼 배경 투명도 */
   border-radius: 50%;
